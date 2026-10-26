@@ -15,6 +15,9 @@ You can learn more about each of these components in depth within the [Tutorial]
 
 ## To Use
 
+Use Node.js 22.12.0 or newer. `npm install` downloads the Electron runtime through the explicit `install-electron` postinstall hook required by Electron 44.
+
+
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
